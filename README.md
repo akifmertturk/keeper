@@ -1,5 +1,5 @@
 # keeper
-![React](https://img.shields.io/badge/-React-%239cf) ![HTML](https://img.shields.io/badge/-HTML-blue) ![CSS](https://img.shields.io/badge/-CSS-yellow)
+![REACT](https://img.shields.io/badge/-REACT-important) ![HTML](https://img.shields.io/badge/-HTML-blue) ![CSS](https://img.shields.io/badge/-CSS-yellow)
 
 Keeper is a front-end project that the user can take notes and list them.  
 I built this app to demonstrate what I know about React and what I can do with it.  
