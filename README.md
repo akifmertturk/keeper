@@ -11,4 +11,9 @@ This is an example project on Udemy course _the-complete-web-development-bootcam
 - Delete a note
 
 ## Run
-You can visit [codesandbox-keeper](https://codesandbox.io/s/keeper-part-3-completed-forked-go43d) to run and see the project.
+You can visit [codesandbox-keeper](https://codesandbox.io/s/keeper-part-3-completed-forked-go43d) to run and see the project.  
+**or**  
+You can run this project in your local machine by clonning the repo and commanding the following commands in your terminal:  
+$`npm i`  
+$`npm run start`
+
